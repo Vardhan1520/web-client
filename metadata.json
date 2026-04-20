@@ -1,0 +1,6 @@
+{
+  "name": "Employee Age Comparison Analytics",
+  "description": "Calculates and displays the number of employees younger than each colleague within the same department, sorted by employee ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
